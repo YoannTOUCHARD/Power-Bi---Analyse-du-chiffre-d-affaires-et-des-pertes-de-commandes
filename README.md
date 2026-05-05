@@ -10,7 +10,7 @@ DAX
 Modélisation de données
 📄 Contenu du dashboard
 
-Page 1 : Analyse du chiffre d’affaires vs pertes
+<ins>**Page 1**</ins> : Analyse du chiffre d’affaires vs pertes
 
 <ins>Comparaison entre</ins> :
 - Commandes en attente  
@@ -18,13 +18,13 @@ Page 1 : Analyse du chiffre d’affaires vs pertes
 - Commandes livrées  
 - Commandes annulées
     
-<ins>Analyse par :</ins>
+<ins>Analyse par</ins> :
 - Produit  
 - Catégorie  
 - Client  
 - Période (mois, trimestre)  
 
-Page 2 : Suivi mensuel et indicateurs
+<ins>Page 2</ins> : Suivi mensuel et indicateurs
 
 Graphique cumulatif des commandes
 Indicateurs :
