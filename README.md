@@ -1,9 +1,9 @@
 📊 Analyse du chiffre d’affaires et des pertes – Power BI
 
-🎯 Objectif
+🎯 **Objectif**
 Analyser la performance commerciale et identifier les pertes de chiffre d’affaires liées aux annulations de commandes.
 
-🛠️ Outils
+🛠️ **Outils**
 Power BI Desktop
 DAX
 Modélisation de données
