@@ -5,8 +5,8 @@
 
 🛠️ <ins>**Outils</ins> :**  
     - Power BI Desktop  
+    - Modélisation de données  
     - DAX  
-    - Modélisation de données
   
 📄 Contenu du dashboard
   
