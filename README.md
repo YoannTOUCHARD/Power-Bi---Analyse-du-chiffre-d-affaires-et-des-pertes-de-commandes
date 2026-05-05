@@ -12,16 +12,16 @@ Modélisation de données
 
 Page 1 : Analyse du chiffre d’affaires vs pertes
 
-Comparaison entre :
-Commandes en attente
-Commandes expédiées
-Commandes livrées
-Commandes annulées
+Comparaison entre :  
+- Commandes en attente  
+- Commandes expédiées  
+- Commandes livrées  
+- Commandes annulées  
 Analyse par :
-Produit
-Catégorie
-Client
-Période (mois, trimestre)
+- Produit  
+- Catégorie  
+- Client  
+- Période (mois, trimestre)  
 
 Page 2 : Suivi mensuel et indicateurs
 
