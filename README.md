@@ -1,3 +1,4 @@
+
 📊 Analyse du chiffre d’affaires et des pertes – Power BI
 
 🎯 **Objectif**
@@ -52,3 +53,4 @@ Identifier les sources de pertes et améliorer la gestion des commandes et des v
 📁 Fichier
 
 Le fichier .pbix est disponible dans ce dépôt.
+
