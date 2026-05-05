@@ -14,15 +14,15 @@
     - Modélisation de données  
     - DAX  
   
-📄 Contenu du dashboard
+📄 <ins>**Contenu du dashboard</ins> :**  
   
-<ins>**Page 1**</ins> : Analyse du chiffre d’affaires vs pertes
+- <ins>**Page 1**</ins> : Analyse du chiffre d’affaires vs pertes
   
-<ins>Comparaison entre</ins> :  
-    - Commandes en attente  
-    - Commandes expédiées  
-    - Commandes livrées  
-    - Commandes annulées
+    <ins>Comparaison entre</ins> :  
+        - Commandes en attente  
+        - Commandes expédiées  
+        - Commandes livrées  
+        - Commandes annulées
     
 <ins>Analyse par</ins> :  
     - Produit  
