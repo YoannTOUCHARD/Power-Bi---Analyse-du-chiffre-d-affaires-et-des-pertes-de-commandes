@@ -5,7 +5,7 @@
 <img width="1458" height="820" alt="image" src="https://github.com/user-attachments/assets/172d9bb8-9065-4dde-9570-0fb893cea074" />
   
   <ins>**Page 2**</ins> - Vue globale :  
-<img width="1458" height="819" alt="image" src="https://github.com/user-attachments/assets/b5f287ea-5105-4096-b556-3c0965303adb" />
+<img width="1459" height="820" alt="image" src="https://github.com/user-attachments/assets/488e65f6-87c6-4460-a993-61e51eaaa21d" />
   
 🎯 <ins>**Objectif</ins> :** Analyser la performance commerciale et identifier les pertes de chiffre d’affaires liées aux annulations de commandes.
 
