@@ -31,8 +31,8 @@
             - Période (mois, trimestre)  
   
 - <ins>**Page 2** : Suivi mensuel et indicateurs</ins> :  
-    - Graphique cumulatif des commandes  
-    - Indicateurs :  
+    - <ins>Graphique cumulatif des commandes</ins>
+    - <ins>Indicateurs</ins> :  
             - Taux de manque à gagner  
             - Perte de capacité de production  
             - Répartition des commandes  
