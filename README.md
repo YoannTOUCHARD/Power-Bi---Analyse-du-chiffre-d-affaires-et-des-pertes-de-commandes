@@ -2,11 +2,11 @@
 📊 <ins>**Analyse du chiffre d’affaires et des pertes – Power BI</ins> :**  
   
 <ins>**Page 1**</ins> - Vue globale :  
-  <img height="300" alt="Power BI_RAPPORT de VENTES sans filtre appliqué" src="https://github.com/user-attachments/assets/e66d04c7-80d9-49c3-b909-0c51b2ce3322" />
+  <img height="100" alt="Power BI_RAPPORT de VENTES sans filtre appliqué" src="https://github.com/user-attachments/assets/e66d04c7-80d9-49c3-b909-0c51b2ce3322" />
 
   
   <ins>**Page 2**</ins> - Vue globale :  
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/488e65f6-87c6-4460-a993-61e51eaaa21d" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/488e65f6-87c6-4460-a993-61e51eaaa21d" />
   
 🎯 <ins>**Objectif</ins> :** Analyser la performance commerciale et identifier les pertes de chiffre d’affaires liées aux annulations de commandes.
 
@@ -43,7 +43,7 @@ Identifier les sources de pertes et améliorer la gestion des commandes et des v
 
 📊 <ins>**Illustrations complémentaires</ins> :**    
   
-- <ins>**Page 1**</ins> - Adaptation automatique des graphiques à la sélection :<img width="1458" height="819" alt="image" src="https://github.com/user-attachments/assets/b5f287ea-5105-4096-b556-3c0965303adb" />
+- <ins>**Page 1**</ins> - Adaptation automatique des graphiques à la sélection :<img height="300" alt="image" src="https://github.com/user-attachments/assets/b5f287ea-5105-4096-b556-3c0965303adb" />
 
     
-- <ins>**Page 2**</ins> - Adaptation automatique des graphiques à la sélection :<img width="1459" height="821" alt="image" src="https://github.com/user-attachments/assets/09373a09-6708-4406-9dd1-0ced149ea92d" />
+- <ins>**Page 2**</ins> - Adaptation automatique des graphiques à la sélection :<img height="300" alt="image" src="https://github.com/user-attachments/assets/09373a09-6708-4406-9dd1-0ced149ea92d" />
