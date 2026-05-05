@@ -19,23 +19,23 @@
 - <ins>**Page 1**</ins> : Analyse du chiffre d’affaires vs pertes
   
     <ins>Comparaison entre</ins> :  
-        - Commandes en attente  
-        - Commandes expédiées  
-        - Commandes livrées  
-        - Commandes annulées
+            - Commandes en attente  
+            - Commandes expédiées  
+            - Commandes livrées  
+            - Commandes annulées
     
-<ins>Analyse par</ins> :  
-    - Produit  
-    - Catégorie  
-    - Client  
-    - Période (mois, trimestre)  
+    <ins>Analyse par</ins> :  
+            - Produit  
+            - Catégorie  
+            - Client  
+            - Période (mois, trimestre)  
   
-<ins>**Page 2** : Suivi mensuel et indicateurs</ins> :  
-    - Graphique cumulatif des commandes  
-    - Indicateurs :
-        - Taux de manque à gagner
-        - Perte de capacité de production
-        - Répartition des commandes
+    <ins>**Page 2** : Suivi mensuel et indicateurs</ins> :  
+            - Graphique cumulatif des commandes  
+            - Indicateurs :
+                - Taux de manque à gagner
+                - Perte de capacité de production
+                - Répartition des commandes
     
 💡 <ins>**Objectif métier</ins> :** 
 Identifier les sources de pertes et améliorer la gestion des commandes et des ventes.
