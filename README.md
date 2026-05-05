@@ -9,7 +9,7 @@
   
 🎯 <ins>**Objectif</ins> :** Analyser la performance commerciale et identifier les pertes de chiffre d’affaires liées aux annulations de commandes.
 
-🛠️ <ins>**Outils</ins> :** 
+🛠️ <ins>**Outils</ins> :**  
 - Power BI Desktop  
 - Modélisation de données  
 - DAX  
