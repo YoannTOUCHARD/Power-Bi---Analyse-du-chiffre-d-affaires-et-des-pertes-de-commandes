@@ -13,7 +13,7 @@
   
 <ins>**Page 1**</ins> : Analyse du chiffre d’affaires vs pertes
   
-<ins>Comparaison entre</ins> :
+<ins>Comparaison entre</ins> :  
     - Commandes en attente  
     - Commandes expédiées  
     - Commandes livrées  
