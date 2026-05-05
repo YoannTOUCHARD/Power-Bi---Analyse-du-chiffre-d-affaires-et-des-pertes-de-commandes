@@ -2,10 +2,10 @@
 📊 <ins>**Analyse du chiffre d’affaires et des pertes – Power BI</ins> :**  
   
 <ins>**Page 1**</ins> - Vue globale :  
-<img width="1458" height="820" alt="image" src="https://github.com/user-attachments/assets/172d9bb8-9065-4dde-9570-0fb893cea074" />
+<img width="1458" alt="image" src="https://github.com/user-attachments/assets/172d9bb8-9065-4dde-9570-0fb893cea074" />
   
   <ins>**Page 2**</ins> - Vue globale :  
-<img width="1459" height="820" alt="image" src="https://github.com/user-attachments/assets/488e65f6-87c6-4460-a993-61e51eaaa21d" />
+<img width="1459" alt="image" src="https://github.com/user-attachments/assets/488e65f6-87c6-4460-a993-61e51eaaa21d" />
   
 🎯 <ins>**Objectif</ins> :** Analyser la performance commerciale et identifier les pertes de chiffre d’affaires liées aux annulations de commandes.
 
