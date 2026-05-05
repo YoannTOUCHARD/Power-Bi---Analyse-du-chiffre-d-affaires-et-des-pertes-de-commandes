@@ -1,7 +1,7 @@
 
 📊 Analyse du chiffre d’affaires et des pertes – Power BI  
   
-<ins>**Page 1** - Vue globale</ins> :  
+<ins>**Page 1**</ins> - Vue globale :  
 <img width="1458" height="820" alt="image" src="https://github.com/user-attachments/assets/172d9bb8-9065-4dde-9570-0fb893cea074" />
   
   <ins>**Page 2**</ins> - Vue globale :  
