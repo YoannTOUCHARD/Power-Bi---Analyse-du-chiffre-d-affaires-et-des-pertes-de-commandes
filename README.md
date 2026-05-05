@@ -34,10 +34,11 @@ Répartition des commandes
 Identifier les sources de pertes et améliorer la gestion des commandes et des ventes.
 
 **Page 1**
-<img width="1317" height="742" alt="Rapport de Ventes POWER BI" src="https://github.com/user-attachments/assets/f62f2716-f3b6-4d90-a91d-b746bf79db4f" />
+<img width="1458" height="820" alt="image" src="https://github.com/user-attachments/assets/172d9bb8-9065-4dde-9570-0fb893cea074" />
+
 
 **Page 2**
-<img width="1317" height="742" alt="Rapport Production POWER BI" src="https://github.com/user-attachments/assets/e69d54e7-a87f-4472-9217-773ea78b0536" />
+
 
 
 (ajoute ici des captures d’écran de ton dashboard)
