@@ -18,13 +18,13 @@
     - Commandes livrées  
     - Commandes annulées
     
-<ins>Analyse par</ins> :
+<ins>Analyse par</ins> :  
     - Produit  
     - Catégorie  
     - Client  
     - Période (mois, trimestre)  
   
-<ins>**Page 2** : Suivi mensuel et indicateurs</ins> :
+<ins>**Page 2** : Suivi mensuel et indicateurs</ins> :  
     - Graphique cumulatif des commandes  
     - Indicateurs :
         - Taux de manque à gagner
