@@ -44,6 +44,6 @@ Identifier les sources de pertes et améliorer la gestion des commandes et des v
   
 - <ins>**Page 1**</ins> - Adaptation automatique des graphiques à la sélection :
 <img width="1458" height="819" alt="image" src="https://github.com/user-attachments/assets/b5f287ea-5105-4096-b556-3c0965303adb" />
-
+  
 - <ins>**Page 2**</ins> - Adaptation automatique des graphiques à la sélection :
 <img width="1459" height="821" alt="image" src="https://github.com/user-attachments/assets/09373a09-6708-4406-9dd1-0ced149ea92d" />
