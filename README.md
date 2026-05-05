@@ -16,8 +16,9 @@ Page 1 : Analyse du chiffre d’affaires vs pertes
 - Commandes en attente  
 - Commandes expédiées  
 - Commandes livrées  
-- Commandes annulées  
-Analyse par :
+- Commandes annulées
+    
+<ins>Analyse par :</ins>
 - Produit  
 - Catégorie  
 - Client  
