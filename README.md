@@ -12,7 +12,7 @@ Modélisation de données
 
 Page 1 : Analyse du chiffre d’affaires vs pertes
 
-<u> Comparaison entre : </u>  
+<u>Comparaison entre :</u>  
 - Commandes en attente  
 - Commandes expédiées  
 - Commandes livrées  
