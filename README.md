@@ -35,7 +35,8 @@
             - Répartition des commandes dans le process  
     
 💡 <ins>**Objectif métier</ins> :** 
-Identifier les sources de pertes et améliorer la gestion des commandes et des ventes.
+- Identifier les sources de pertes  
+- Améliorer la gestion des commandes et des ventes.
 
 📊 <ins>**Illustrations complémentaires</ins> :**    
   
