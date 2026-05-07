@@ -22,10 +22,10 @@
             - Commandes annulées
     
     - <ins>Analyse par</ins> :  
-            - Produit  
-            - Catégorie  
+            - Catégories de produit  
+            -  produit
             - Client  
-            - Période (mois, trimestre)  
+            - Trimestre  
   
 - <ins>**Page 2** : Suivi mensuel et indicateurs</ins> :  
     - <ins>Graphique cumulatif des commandes</ins>
