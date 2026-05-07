@@ -22,7 +22,7 @@
             - Commandes annulées
     
     - <ins>Analyse par</ins> :  
-            - Catégories de produit  
+            - Catégorie de produits  
             - Produit  
             - Client  
             - Trimestre  
