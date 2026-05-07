@@ -36,7 +36,7 @@
     
 💡 <ins>**Objectif métier</ins> :** 
 - Identifier les sources de pertes  
-- Améliorer la gestion des commandes et des ventes.
+- Améliorer la gestion des commandes et des ventes
 
 📊 <ins>**Illustrations complémentaires</ins> :**    
   
