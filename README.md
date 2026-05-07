@@ -23,7 +23,7 @@
     
     - <ins>Analyse par</ins> :  
             - Catégories de produit  
-            -  produit
+            - Produit
             - Client  
             - Trimestre  
   
