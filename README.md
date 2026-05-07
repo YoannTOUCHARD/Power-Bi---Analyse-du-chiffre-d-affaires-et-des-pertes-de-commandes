@@ -32,7 +32,7 @@
     - <ins>Indicateurs</ins> :  
             - Taux de manque à gagner  
             - Perte de capacité de production  
-            - Répartition des commandes  
+            - Répartition des commandes dans le process  
     
 💡 <ins>**Objectif métier</ins> :** 
 Identifier les sources de pertes et améliorer la gestion des commandes et des ventes.
